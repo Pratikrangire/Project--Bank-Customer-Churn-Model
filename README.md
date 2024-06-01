@@ -1,7 +1,7 @@
-# Project--Bank-Customer-Churn-Model
+# Project-Bank-Customer-Churn-Model
 
 # Title of Project
-Bank Customer Churn Model
+Bank Customer Churn Model 
 
 ## Objective
 The objective of this project is to predict whether a bank customer will churn (leave the bank) using various customer attributes. This prediction can help the bank in implementing retention strategies to maintain its customer base.
